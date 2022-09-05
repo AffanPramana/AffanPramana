@@ -19,8 +19,9 @@ My name is Mohammad Affan Pramana</h1>
 
 - 📫 You can reach me at *mohammad.affan.pramana@mail.ugm.ac.id* 📧
   
-  sssttttt.... I will tell you other funfact about me
+<h4 align="centre">sssttttt.... I will tell you other funfact about me
   
+ 
   I had 3,9 GPA
 
 ![MemeMemesGIF](https://user-images.githubusercontent.com/109286564/188480092-f75c0816-f566-45e5-8ce1-89c3ce8c0192.gif)

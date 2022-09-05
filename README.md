@@ -1,13 +1,16 @@
-<h1 align="center">Hi 👋, I'm Mohammad Affan Pramana</h1>
-<h3 align="center">About me</h3>
+<h1 align="center">Hi everyone 👋, my name is Mohammad Affan Pramana</h1>
 
-- 🌱 I’m currently learning **a phyton language for geophysical method**
+<h3 align="center">All my friends call me Affan and I'm just ordinary human being</h3>
 
-- 💬 Ask me about **I'm an outdoor activities enthusiasts**
+- 🧑‍🎓 I'm an Undergraduate Geophysics Student at Universitas Gadjah Mada
 
-- 📫 How to reach me **mohammad.affan.pramana@mail.ugm.ac.id**
+- 💻 Now, I currently learning a computational method to solving a lot of Geophysical problem
 
-- ⚡ Fun fact **I don't like a boiled eggs**
+- 🏃‍♂️ I'm an outdoor activities enthusiasts
+   
+- 📫 How to reach me at *mohammad.affan.pramana@mail.ugm.ac.id*
+
+- ⚡ Fun fact about me *I don't like a boiled eggs*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
